@@ -1,0 +1,2 @@
+https://www.googletagmanager.com/gtag/js?id=G-E2J7S62HC3&l=dataLayer&cx=c
+https://www.aratrees.com/static/trees/prophet.json
